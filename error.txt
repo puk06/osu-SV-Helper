@@ -1,1 +1,0 @@
-Error: EBUSY: resource busy or locked, unlink '\\?\D:\osu!\Songs\1856862 sienna sleep - navi 98\sienna sleep - navi 98 (Hivie) [For SVtest].osu'
