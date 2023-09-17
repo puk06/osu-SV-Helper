@@ -1,5 +1,5 @@
 # osu!taiko SV Helper
-A program that allows you to create SVs ** very EASY and QUICKLY **
+A program that allows you to create SVs **very EASY and QUICKLY**
 
 ![](osu-trainer/images/gui.png)
 
